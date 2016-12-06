@@ -1,0 +1,46 @@
+for day in dates:
+	send task to collect day's games
+----
+day = month, day, year, blah blah blah
+
+get scores for day: 
+	url = "http://stats.nba.com/scores/#!/month/day/year"
+	response = urlfetch.fetch(url)
+	jsonData = json.loads(result.content)
+	gamesList = jsonData['resultSets'][0]['rowSet']
+	for game in gamesList:
+		params = {'quarters': game[9], 'id': game[2]}
+		send task with params
+----
+
+gameId = self.request.get('id')
+gameQuarters = self.request.get('quarters')
+
+url = "http://stats.nba.com/stats/boxscoretraditionalv2?EndPeriod=10&EndRange=31800&GameID=" + str(gameId) + "&RangeType=0&Season=2016-17&SeasonType=Regular+Season&StartPeriod=1&StartRange=0"
+response = urlfetch.fetch(url)
+jsonData = json.loads(response.content)
+gameData = jsonData['resultSets'][1]['rowSet']
+
+gamePossessions = getGamePossessions(gameData)
+
+if int(gameQuarters) == 4:
+	gameMinutes = 48
+else:
+	gameMinutes = 48 + ((gameQuarters-4) * 5)
+
+playerList = jsonData['resultSets'][0]['rowSet']
+
+for player in playerList:
+	playerEnt = Player.get_by_id(int(player[1]))
+
+	pointsPerPossessionFd = playerEnt.pointsPerPossessionFd
+	
+	playerMinutesString = player[8]
+	playerMinutesString = playerMinutesString.split(":")
+	playerMinutes = float(playerMinutesString[0]) + float(playerMinutesString[1] * (100.0/60.0))
+	
+	playerGamePossessions = (playerMinutes / gameMinutes) * gamePossessions
+	
+	playerGameFanduelPoints = getFanduelScore(player)
+	
+	playerExpectedFanduelPoints = pointsPerPossessionFd * playerGamePossessions

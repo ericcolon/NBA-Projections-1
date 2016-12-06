@@ -1,0 +1,16 @@
+To update players game logs / FPM.
+1. Run '/players/data/send' to update all player stats
+2. Run '/players/data/possession/calculate' to recalculate player per possession data
+
+To recreate clusters:
+1. Run '/players/cluster/data/send' to organize player stats
+2. Run '/cluster/create' to create new clusters
+3. Run ('/cluster/clear', ClearClusters) to clear team clusters
+4. Run ('/games/send/all', ScrapeGamesByDayAll), to recalculate DvC
+5. Run ('/cluster/create/zscores', CreateClusterZScores) to recalculate z-scores
+
+To run projections:
+1. Run 	('/players/minutes/scrape', ScrapeMinutes) to scrape minutes
+2. Run 	('/projections/create', Create) to create projecterinoes
+
+To update team pace:

@@ -1,0 +1,3642 @@
+[
+  {
+    "name": "Juan Hernangomez",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627823,
+    "fanduelId": 0,
+    "flabsId": 28003
+  },
+  {
+    "name": "DeAndre Bembry",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627761,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Chris Bosh",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2547,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Mo Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2590,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Nikola Pekovic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201593,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Jodie Meeks",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201975,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Quincy Pondexter",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202347,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Jared Sullinger",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203096,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Khris Middleton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203114,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Edy Tavares",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204002,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Delon Wright",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626153,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Cameron Payne",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626166,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Ben Simmons",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627732,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Alex Abrines",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203518,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Nicolas Laprovittola",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627879,
+    "fanduelId": 0,
+    "flabsId": 0
+  },
+  {
+    "name": "Bobby Brown",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201628,
+    "fanduelId": 74101,
+    "flabsId": 0
+  },
+  {
+    "name": "Nicolas Brussino",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627852,
+    "fanduelId": 71469,
+    "flabsId": 0
+  },
+  {
+    "name": "Malcolm Delaney",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627098,
+    "fanduelId": 71467,
+    "flabsId": 31218
+  },
+  {
+    "name": "Sergio Rodriguez",
+    "fanduelName": "Sergio  Rodriguez",
+    "flabsName": "",
+    "playerId": 200771,
+    "fanduelId": 71420,
+    "flabsId": 28034
+  },
+  {
+    "name": "Mindaugas Kuzminskas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627851,
+    "fanduelId": 71345,
+    "flabsId": 28002
+  },
+  {
+    "name": "Paul Zipser",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627835,
+    "fanduelId": 70832,
+    "flabsId": 0
+  },
+  {
+    "name": "Ivica Zubac",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627826,
+    "fanduelId": 70827,
+    "flabsId": 0
+  },
+  {
+    "name": "Timothe Luwawu",
+    "fanduelName": "Timothe Luwawu-Cabarrot",
+    "flabsName": "",
+    "playerId": 1627789,
+    "fanduelId": 70825,
+    "flabsId": 0
+  },
+  {
+    "name": "Georgios Papagiannis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627834,
+    "fanduelId": 70821,
+    "flabsId": 0
+  },
+  {
+    "name": "Thon Maker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627748,
+    "fanduelId": 70820,
+    "flabsId": 0
+  },
+  {
+    "name": "Dragan Bender",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627733,
+    "fanduelId": 70819,
+    "flabsId": 28076
+  },
+  {
+    "name": "Dejounte Murray",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627749,
+    "fanduelId": 67708,
+    "flabsId": 27991
+  },
+  {
+    "name": "Marquese Chriss",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627737,
+    "fanduelId": 67707,
+    "flabsId": 28046
+  },
+  {
+    "name": "Jaylen Brown",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627759,
+    "fanduelId": 67026,
+    "flabsId": 28025
+  },
+  {
+    "name": "Derrick Jones, Jr.",
+    "fanduelName": "Derrick Jones Jr.",
+    "flabsName": "",
+    "playerId": 1627884,
+    "fanduelId": 66968,
+    "flabsId": 0
+  },
+  {
+    "name": "Stephen Zimmerman",
+    "fanduelName": "Stephen Zimmerman Jr.",
+    "flabsName": "",
+    "playerId": 1627757,
+    "fanduelId": 66966,
+    "flabsId": 0
+  },
+  {
+    "name": "Marcelo Huertas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626273,
+    "fanduelId": 66521,
+    "flabsId": 22345
+  },
+  {
+    "name": "Henry Ellenson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627740,
+    "fanduelId": 66455,
+    "flabsId": 0
+  },
+  {
+    "name": "Malachi Richardson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627781,
+    "fanduelId": 66203,
+    "flabsId": 0
+  },
+  {
+    "name": "Deyonta Davis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627738,
+    "fanduelId": 66129,
+    "flabsId": 28033
+  },
+  {
+    "name": "Diamond Stone",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627754,
+    "fanduelId": 66117,
+    "flabsId": 0
+  },
+  {
+    "name": "Skal Labissiere",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627746,
+    "fanduelId": 66109,
+    "flabsId": 0
+  },
+  {
+    "name": "Jamal Murray",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627750,
+    "fanduelId": 66108,
+    "flabsId": 28062
+  },
+  {
+    "name": "Cheick Diallo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627767,
+    "fanduelId": 66091,
+    "flabsId": 0
+  },
+  {
+    "name": "Malik Beasley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627736,
+    "fanduelId": 66064,
+    "flabsId": 0
+  },
+  {
+    "name": "Brandon Ingram",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627742,
+    "fanduelId": 66048,
+    "flabsId": 28073
+  },
+  {
+    "name": "Salah Mejri",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626257,
+    "fanduelId": 64017,
+    "flabsId": 12116
+  },
+  {
+    "name": "Boban Marjanovic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626246,
+    "fanduelId": 63826,
+    "flabsId": 0
+  },
+  {
+    "name": "Cristiano Felicio",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626245,
+    "fanduelId": 63478,
+    "flabsId": 0
+  },
+  {
+    "name": "Willy Hernangomez",
+    "fanduelName": "Guillermo Hernangomez",
+    "flabsName": "Guillermo Hernangomez",
+    "playerId": 1626195,
+    "fanduelId": 63127,
+    "flabsId": 12092
+  },
+  {
+    "name": "Emmanuel Mudiay",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626144,
+    "fanduelId": 63124,
+    "flabsId": 12048
+  },
+  {
+    "name": "Mario Hezonja",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626209,
+    "fanduelId": 63123,
+    "flabsId": 0
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204001,
+    "fanduelId": 63122,
+    "flabsId": 12577
+  },
+  {
+    "name": "Pascal Siakam",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627783,
+    "fanduelId": 60021,
+    "flabsId": 27998
+  },
+  {
+    "name": "Chris McCullough",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626191,
+    "fanduelId": 59483,
+    "flabsId": 12090
+  },
+  {
+    "name": "Domantas Sabonis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627734,
+    "fanduelId": 59358,
+    "flabsId": 28077
+  },
+  {
+    "name": "Joe Ingles",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204060,
+    "fanduelId": 59318,
+    "flabsId": 12589
+  },
+  {
+    "name": "Rashad Vaughn",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626173,
+    "fanduelId": 58661,
+    "flabsId": 0
+  },
+  {
+    "name": "Patrick McCaw",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627775,
+    "fanduelId": 58658,
+    "flabsId": 28023
+  },
+  {
+    "name": "Kevon Looney",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626172,
+    "fanduelId": 58576,
+    "flabsId": 12076
+  },
+  {
+    "name": "Chinanu Onuaku",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627778,
+    "fanduelId": 58505,
+    "flabsId": 0
+  },
+  {
+    "name": "Wade Baldwin",
+    "fanduelName": "Wade Baldwin IV",
+    "flabsName": "",
+    "playerId": 1627735,
+    "fanduelId": 58490,
+    "flabsId": 28037
+  },
+  {
+    "name": "Tyler Ulis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627755,
+    "fanduelId": 58463,
+    "flabsId": 28044
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626157,
+    "fanduelId": 58462,
+    "flabsId": 12061
+  },
+  {
+    "name": "Trey Lyles",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626168,
+    "fanduelId": 58461,
+    "flabsId": 12072
+  },
+  {
+    "name": "Devin Booker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626164,
+    "fanduelId": 58460,
+    "flabsId": 12068
+  },
+  {
+    "name": "Jakob Poeltl",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627751,
+    "fanduelId": 58378,
+    "flabsId": 28050
+  },
+  {
+    "name": "Stanley Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626169,
+    "fanduelId": 58350,
+    "flabsId": 12073
+  },
+  {
+    "name": "D'Angelo Russell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626156,
+    "fanduelId": 58312,
+    "flabsId": 12060
+  },
+  {
+    "name": "Myles Turner",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626167,
+    "fanduelId": 58253,
+    "flabsId": 12071
+  },
+  {
+    "name": "Isaiah Whitehead",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627785,
+    "fanduelId": 58247,
+    "flabsId": 28019
+  },
+  {
+    "name": "Kelly Oubre",
+    "fanduelName": "Kelly Oubre Jr.",
+    "flabsName": "",
+    "playerId": 1626162,
+    "fanduelId": 58153,
+    "flabsId": 12066
+  },
+  {
+    "name": "Justise Winslow",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626159,
+    "fanduelId": 58084,
+    "flabsId": 12063
+  },
+  {
+    "name": "Jahlil Okafor",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626143,
+    "fanduelId": 58083,
+    "flabsId": 12047
+  },
+  {
+    "name": "Tyus Jones",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626145,
+    "fanduelId": 58081,
+    "flabsId": 12049
+  },
+  {
+    "name": "Damjan Rudez",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204014,
+    "fanduelId": 55376,
+    "flabsId": 0
+  },
+  {
+    "name": "Nikola Jokic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203999,
+    "fanduelId": 55062,
+    "flabsId": 12576
+  },
+  {
+    "name": "Clint Capela",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203991,
+    "fanduelId": 55059,
+    "flabsId": 12572
+  },
+  {
+    "name": "Bruno Caboclo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203998,
+    "fanduelId": 55058,
+    "flabsId": 0
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203994,
+    "fanduelId": 55057,
+    "flabsId": 12573
+  },
+  {
+    "name": "Dario Saric",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203967,
+    "fanduelId": 55056,
+    "flabsId": 28080
+  },
+  {
+    "name": "Dante Exum",
+    "fanduelName": "Dant� Exum",
+    "flabsName": "",
+    "playerId": 203957,
+    "fanduelId": 55055,
+    "flabsId": 0
+  },
+  {
+    "name": "Andrew Wiggins",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203952,
+    "fanduelId": 49116,
+    "flabsId": 12559
+  },
+  {
+    "name": "Joel Embiid",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203954,
+    "fanduelId": 49111,
+    "flabsId": 12561
+  },
+  {
+    "name": "Maurice Ndour",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626254,
+    "fanduelId": 48799,
+    "flabsId": 0
+  },
+  {
+    "name": "Kay Felder",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627770,
+    "fanduelId": 43064,
+    "flabsId": 0
+  },
+  {
+    "name": "Tyler Ennis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203898,
+    "fanduelId": 42689,
+    "flabsId": 0
+  },
+  {
+    "name": "Terry Rozier",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626179,
+    "fanduelId": 42677,
+    "flabsId": 12082
+  },
+  {
+    "name": "James Young",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203923,
+    "fanduelId": 42671,
+    "flabsId": 0
+  },
+  {
+    "name": "Julius Randle",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203944,
+    "fanduelId": 42669,
+    "flabsId": 12553
+  },
+  {
+    "name": "Andrew Harrison",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626150,
+    "fanduelId": 42665,
+    "flabsId": 12054
+  },
+  {
+    "name": "Aaron Harrison",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626151,
+    "fanduelId": 42664,
+    "flabsId": 0
+  },
+  {
+    "name": "Troy Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627786,
+    "fanduelId": 42662,
+    "flabsId": 28040
+  },
+  {
+    "name": "Noah Vonleh",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203943,
+    "fanduelId": 42661,
+    "flabsId": 12552
+  },
+  {
+    "name": "Jabari Parker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203953,
+    "fanduelId": 42550,
+    "flabsId": 12560
+  },
+  {
+    "name": "Arinze Onuaku",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202620,
+    "fanduelId": 42488,
+    "flabsId": 0
+  },
+  {
+    "name": "Christian Wood",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626174,
+    "fanduelId": 42202,
+    "flabsId": 0
+  },
+  {
+    "name": "Bobby Portis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626171,
+    "fanduelId": 42156,
+    "flabsId": 12075
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626178,
+    "fanduelId": 42148,
+    "flabsId": 12081
+  },
+  {
+    "name": "Aaron Gordon",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203932,
+    "fanduelId": 41594,
+    "flabsId": 12545
+  },
+  {
+    "name": "Demetrius Jackson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627743,
+    "fanduelId": 41269,
+    "flabsId": 0
+  },
+  {
+    "name": "Damian Jones",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627745,
+    "fanduelId": 41082,
+    "flabsId": 0
+  },
+  {
+    "name": "Tim Quarterman",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627817,
+    "fanduelId": 41065,
+    "flabsId": 28008
+  },
+  {
+    "name": "Jordan Mickey",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626175,
+    "fanduelId": 41063,
+    "flabsId": 0
+  },
+  {
+    "name": "Jarell Martin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626185,
+    "fanduelId": 40819,
+    "flabsId": 12086
+  },
+  {
+    "name": "Zach LaVine",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203897,
+    "fanduelId": 40783,
+    "flabsId": 12521
+  },
+  {
+    "name": "Joffrey Lauvergne",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203530,
+    "fanduelId": 40209,
+    "flabsId": 12497
+  },
+  {
+    "name": "Raul Neto",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203526,
+    "fanduelId": 40208,
+    "flabsId": 0
+  },
+  {
+    "name": "Rudy Gobert",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203497,
+    "fanduelId": 40203,
+    "flabsId": 12475
+  },
+  {
+    "name": "Dennis Schroder",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203471,
+    "fanduelId": 40201,
+    "flabsId": 12453
+  },
+  {
+    "name": "Lucas Nogueira",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203512,
+    "fanduelId": 40200,
+    "flabsId": 12488
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203507,
+    "fanduelId": 40199,
+    "flabsId": 12485
+  },
+  {
+    "name": "Aron Baynes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203382,
+    "fanduelId": 37931,
+    "flabsId": 12441
+  },
+  {
+    "name": "Willie Reed",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203186,
+    "fanduelId": 34615,
+    "flabsId": 12432
+  },
+  {
+    "name": "Denzel Valentine",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627756,
+    "fanduelId": 24546,
+    "flabsId": 28017
+  },
+  {
+    "name": "Gary Harris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203914,
+    "fanduelId": 24544,
+    "flabsId": 0
+  },
+  {
+    "name": "Fred VanVleet",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627832,
+    "fanduelId": 24247,
+    "flabsId": 0
+  },
+  {
+    "name": "Anthony Bennett",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203461,
+    "fanduelId": 23920,
+    "flabsId": 12447
+  },
+  {
+    "name": "Jerami Grant",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203924,
+    "fanduelId": 23831,
+    "flabsId": 12539
+  },
+  {
+    "name": "Nerlens Noel",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203457,
+    "fanduelId": 23825,
+    "flabsId": 0
+  },
+  {
+    "name": "Archie Goodwin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203462,
+    "fanduelId": 23824,
+    "flabsId": 0
+  },
+  {
+    "name": "Willie Cauley-Stein",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626161,
+    "fanduelId": 23823,
+    "flabsId": 12065
+  },
+  {
+    "name": "Kris Dunn",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627739,
+    "fanduelId": 23802,
+    "flabsId": 28005
+  },
+  {
+    "name": "Nik Stauskas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203917,
+    "fanduelId": 23801,
+    "flabsId": 12533
+  },
+  {
+    "name": "Glenn Robinson",
+    "fanduelName": "Glenn Robinson III",
+    "flabsName": "",
+    "playerId": 203922,
+    "fanduelId": 23800,
+    "flabsId": 12537
+  },
+  {
+    "name": "Caris LeVert",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627747,
+    "fanduelId": 23798,
+    "flabsId": 0
+  },
+  {
+    "name": "Bryn Forbes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627854,
+    "fanduelId": 23788,
+    "flabsId": 28072
+  },
+  {
+    "name": "Jake Layman",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627774,
+    "fanduelId": 23780,
+    "flabsId": 28021
+  },
+  {
+    "name": "Montrezl Harrell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626149,
+    "fanduelId": 23776,
+    "flabsId": 12053
+  },
+  {
+    "name": "Yogi Ferrell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627812,
+    "fanduelId": 23772,
+    "flabsId": 0
+  },
+  {
+    "name": "Brian Roberts",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203148,
+    "fanduelId": 23757,
+    "flabsId": 0
+  },
+  {
+    "name": "Justin Anderson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626147,
+    "fanduelId": 23744,
+    "flabsId": 12051
+  },
+  {
+    "name": "Daniel Ochefu",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627849,
+    "fanduelId": 23743,
+    "flabsId": 0
+  },
+  {
+    "name": "Shabazz Muhammad",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203498,
+    "fanduelId": 23717,
+    "flabsId": 12476
+  },
+  {
+    "name": "Kyle Anderson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203937,
+    "fanduelId": 23716,
+    "flabsId": 12549
+  },
+  {
+    "name": "Marcus Smart",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203935,
+    "fanduelId": 23670,
+    "flabsId": 12548
+  },
+  {
+    "name": "Buddy Hield",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627741,
+    "fanduelId": 23665,
+    "flabsId": 27988
+  },
+  {
+    "name": "Brice Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627744,
+    "fanduelId": 23654,
+    "flabsId": 0
+  },
+  {
+    "name": "Taurean Prince",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627752,
+    "fanduelId": 23572,
+    "flabsId": 28064
+  },
+  {
+    "name": "Richaun Holmes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626158,
+    "fanduelId": 23447,
+    "flabsId": 12062
+  },
+  {
+    "name": "PJ Tucker",
+    "fanduelName": "P.J. Tucker",
+    "flabsName": "",
+    "playerId": 200782,
+    "fanduelId": 23407,
+    "flabsId": 12150
+  },
+  {
+    "name": "Danuel House",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627863,
+    "fanduelId": 23294,
+    "flabsId": 0
+  },
+  {
+    "name": "Sam Dekker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626155,
+    "fanduelId": 23282,
+    "flabsId": 12059
+  },
+  {
+    "name": "AJ Hammons",
+    "fanduelName": "A.J. Hammons",
+    "flabsName": "",
+    "playerId": 1627773,
+    "fanduelId": 23273,
+    "flabsId": 0
+  },
+  {
+    "name": "RJ Hunter",
+    "fanduelName": "R.J. Hunter",
+    "flabsName": "",
+    "playerId": 1626154,
+    "fanduelId": 23248,
+    "flabsId": 0
+  },
+  {
+    "name": "Joel Bolomboy",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627762,
+    "fanduelId": 23189,
+    "flabsId": 0
+  },
+  {
+    "name": "Mirza Teletovic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203141,
+    "fanduelId": 23178,
+    "flabsId": 12422
+  },
+  {
+    "name": "Steven Adams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203500,
+    "fanduelId": 23169,
+    "flabsId": 12478
+  },
+  {
+    "name": "Georges Niang",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627777,
+    "fanduelId": 23156,
+    "flabsId": 28007
+  },
+  {
+    "name": "Semaj Christon",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203902,
+    "fanduelId": 23148,
+    "flabsId": 31223
+  },
+  {
+    "name": "TJ Warren",
+    "fanduelName": "T.J. Warren",
+    "flabsName": "",
+    "playerId": 203933,
+    "fanduelId": 23120,
+    "flabsId": 12546
+  },
+  {
+    "name": "Tomas Satoransky",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203107,
+    "fanduelId": 23097,
+    "flabsId": 28029
+  },
+  {
+    "name": "Evan Fournier",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203095,
+    "fanduelId": 23096,
+    "flabsId": 12388
+  },
+  {
+    "name": "Ron Baker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627758,
+    "fanduelId": 22727,
+    "flabsId": 0
+  },
+  {
+    "name": "Kelly Olynyk",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203482,
+    "fanduelId": 22541,
+    "flabsId": 12462
+  },
+  {
+    "name": "Alan Anderson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101187,
+    "fanduelId": 21665,
+    "flabsId": 0
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626204,
+    "fanduelId": 20992,
+    "flabsId": 12097
+  },
+  {
+    "name": "Damian Lillard",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203081,
+    "fanduelId": 20848,
+    "flabsId": 12374
+  },
+  {
+    "name": "Treveon Graham",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626203,
+    "fanduelId": 20806,
+    "flabsId": 0
+  },
+  {
+    "name": "Troy Daniels",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203584,
+    "fanduelId": 20805,
+    "flabsId": 12511
+  },
+  {
+    "name": "Jordan Clarkson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203903,
+    "fanduelId": 20640,
+    "flabsId": 12525
+  },
+  {
+    "name": "Robert Covington",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203496,
+    "fanduelId": 20491,
+    "flabsId": 12474
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203521,
+    "fanduelId": 20064,
+    "flabsId": 12494
+  },
+  {
+    "name": "Kent Bazemore",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203145,
+    "fanduelId": 19781,
+    "flabsId": 12426
+  },
+  {
+    "name": "Isaiah Canaan",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203477,
+    "fanduelId": 19456,
+    "flabsId": 12458
+  },
+  {
+    "name": "Elfrid Payton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203901,
+    "fanduelId": 19138,
+    "flabsId": 12524
+  },
+  {
+    "name": "CJ McCollum",
+    "fanduelName": "C.J. McCollum",
+    "flabsName": "",
+    "playerId": 203468,
+    "fanduelId": 19067,
+    "flabsId": 12451
+  },
+  {
+    "name": "Joe Young",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626202,
+    "fanduelId": 18828,
+    "flabsId": 12095
+  },
+  {
+    "name": "Jonathon Simmons",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203613,
+    "fanduelId": 18821,
+    "flabsId": 12512
+  },
+  {
+    "name": "Tyler Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204020,
+    "fanduelId": 18600,
+    "flabsId": 12580
+  },
+  {
+    "name": "TJ McConnell",
+    "fanduelName": "T.J. McConnell",
+    "flabsName": "",
+    "playerId": 204456,
+    "fanduelId": 18393,
+    "flabsId": 22393
+  },
+  {
+    "name": "Doug McDermott",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203926,
+    "fanduelId": 18256,
+    "flabsId": 12541
+  },
+  {
+    "name": "Mike Muscala",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203488,
+    "fanduelId": 17894,
+    "flabsId": 12467
+  },
+  {
+    "name": "Ian Clark",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203546,
+    "fanduelId": 17747,
+    "flabsId": 12503
+  },
+  {
+    "name": "Alan Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626210,
+    "fanduelId": 17542,
+    "flabsId": 0
+  },
+  {
+    "name": "Tony Snell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203503,
+    "fanduelId": 17517,
+    "flabsId": 12481
+  },
+  {
+    "name": "James Ennis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203516,
+    "fanduelId": 17491,
+    "flabsId": 12491
+  },
+  {
+    "name": "Kyle O'Quinn",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203124,
+    "fanduelId": 17384,
+    "flabsId": 12413
+  },
+  {
+    "name": "Will Barton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203115,
+    "fanduelId": 17333,
+    "flabsId": 12406
+  },
+  {
+    "name": "Tarik Black",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204028,
+    "fanduelId": 17332,
+    "flabsId": 12584
+  },
+  {
+    "name": "Langston Galloway",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204038,
+    "fanduelId": 17230,
+    "flabsId": 12587
+  },
+  {
+    "name": "Andrew Nicholson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203094,
+    "fanduelId": 17218,
+    "flabsId": 12387
+  },
+  {
+    "name": "Jarnell Stokes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203950,
+    "fanduelId": 16925,
+    "flabsId": 0
+  },
+  {
+    "name": "Lance Thomas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202498,
+    "fanduelId": 16859,
+    "flabsId": 12317
+  },
+  {
+    "name": "Justin Holiday",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203200,
+    "fanduelId": 16604,
+    "flabsId": 12435
+  },
+  {
+    "name": "Frank Kaminsky",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626163,
+    "fanduelId": 16448,
+    "flabsId": 12067
+  },
+  {
+    "name": "CJ Wilcox",
+    "fanduelName": "C.J. Wilcox",
+    "flabsName": "",
+    "playerId": 203912,
+    "fanduelId": 16411,
+    "flabsId": 0
+  },
+  {
+    "name": "Terrence Ross",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203082,
+    "fanduelId": 16405,
+    "flabsId": 12375
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627827,
+    "fanduelId": 16376,
+    "flabsId": 28067
+  },
+  {
+    "name": "Mike Scott",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203118,
+    "fanduelId": 16368,
+    "flabsId": 0
+  },
+  {
+    "name": "Joe Harris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203925,
+    "fanduelId": 16363,
+    "flabsId": 12540
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627763,
+    "fanduelId": 16359,
+    "flabsId": 28043
+  },
+  {
+    "name": "Darrun Hilliard",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626199,
+    "fanduelId": 16348,
+    "flabsId": 12094
+  },
+  {
+    "name": "John Jenkins",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203098,
+    "fanduelId": 16335,
+    "flabsId": 0
+  },
+  {
+    "name": "Festus Ezeli",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203105,
+    "fanduelId": 16331,
+    "flabsId": 0
+  },
+  {
+    "name": "Dewayne Dedmon",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203473,
+    "fanduelId": 16301,
+    "flabsId": 12454
+  },
+  {
+    "name": "Norman Powell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626181,
+    "fanduelId": 16293,
+    "flabsId": 12083
+  },
+  {
+    "name": "Sheldon McClellan",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627815,
+    "fanduelId": 16246,
+    "flabsId": 0
+  },
+  {
+    "name": "Josh Richardson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626196,
+    "fanduelId": 16233,
+    "flabsId": 12093
+  },
+  {
+    "name": "Jordan McRae",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203895,
+    "fanduelId": 16230,
+    "flabsId": 22395
+  },
+  {
+    "name": "Dion Waiters",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203079,
+    "fanduelId": 16220,
+    "flabsId": 12372
+  },
+  {
+    "name": "Rakeem Christmas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626176,
+    "fanduelId": 16202,
+    "flabsId": 0
+  },
+  {
+    "name": "Michael Carter-Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203487,
+    "fanduelId": 16201,
+    "flabsId": 0
+  },
+  {
+    "name": "Dwight Powell",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203939,
+    "fanduelId": 16196,
+    "flabsId": 12550
+  },
+  {
+    "name": "Josh Huestis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203962,
+    "fanduelId": 16191,
+    "flabsId": 0
+  },
+  {
+    "name": "Maurice Harkless",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203090,
+    "fanduelId": 16178,
+    "flabsId": 12383
+  },
+  {
+    "name": "Tim Frazier",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 204025,
+    "fanduelId": 16071,
+    "flabsId": 12583
+  },
+  {
+    "name": "Jerian Grant",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626170,
+    "fanduelId": 15996,
+    "flabsId": 12074
+  },
+  {
+    "name": "Pat Connaughton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1626192,
+    "fanduelId": 15993,
+    "flabsId": 12091
+  },
+  {
+    "name": "Tyler Zeller",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203092,
+    "fanduelId": 15961,
+    "flabsId": 12385
+  },
+  {
+    "name": "James Michael McAdoo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203949,
+    "fanduelId": 15955,
+    "flabsId": 0
+  },
+  {
+    "name": "John Henson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203089,
+    "fanduelId": 15952,
+    "flabsId": 12382
+  },
+  {
+    "name": "Reggie Bullock",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203493,
+    "fanduelId": 15947,
+    "flabsId": 0
+  },
+  {
+    "name": "Harrison Barnes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203084,
+    "fanduelId": 15946,
+    "flabsId": 12377
+  },
+  {
+    "name": "Rodney Hood",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203918,
+    "fanduelId": 15904,
+    "flabsId": 12534
+  },
+  {
+    "name": "Adreian Payne",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203940,
+    "fanduelId": 15864,
+    "flabsId": 0
+  },
+  {
+    "name": "Draymond Green",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203110,
+    "fanduelId": 15860,
+    "flabsId": 12401
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203501,
+    "fanduelId": 15846,
+    "flabsId": 12479
+  },
+  {
+    "name": "Trey Burke",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203504,
+    "fanduelId": 15843,
+    "flabsId": 12482
+  },
+  {
+    "name": "Alex Len",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203458,
+    "fanduelId": 15814,
+    "flabsId": 12444
+  },
+  {
+    "name": "Jae Crowder",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203109,
+    "fanduelId": 15800,
+    "flabsId": 12400
+  },
+  {
+    "name": "Justin Hamilton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203120,
+    "fanduelId": 15788,
+    "flabsId": 12410
+  },
+  {
+    "name": "Gorgui Dieng",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203476,
+    "fanduelId": 15771,
+    "flabsId": 12457
+  },
+  {
+    "name": "Kyle Wiltjer",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627787,
+    "fanduelId": 15767,
+    "flabsId": 0
+  },
+  {
+    "name": "Michael Kidd-Gilchrist",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203077,
+    "fanduelId": 15758,
+    "flabsId": 12370
+  },
+  {
+    "name": "Terrence Jones",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203093,
+    "fanduelId": 15757,
+    "flabsId": 12386
+  },
+  {
+    "name": "Anthony Davis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203076,
+    "fanduelId": 15755,
+    "flabsId": 12369
+  },
+  {
+    "name": "Rodney McGruder",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203585,
+    "fanduelId": 15744,
+    "flabsId": 28038
+  },
+  {
+    "name": "Jeff Withey",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203481,
+    "fanduelId": 15736,
+    "flabsId": 12461
+  },
+  {
+    "name": "Thomas Robinson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203080,
+    "fanduelId": 15730,
+    "flabsId": 12373
+  },
+  {
+    "name": "Ben McLemore",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203463,
+    "fanduelId": 15727,
+    "flabsId": 0
+  },
+  {
+    "name": "Cody Zeller",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203469,
+    "fanduelId": 15691,
+    "flabsId": 12452
+  },
+  {
+    "name": "Victor Oladipo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203506,
+    "fanduelId": 15684,
+    "flabsId": 12484
+  },
+  {
+    "name": "Meyers Leonard",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203086,
+    "fanduelId": 15669,
+    "flabsId": 12379
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203484,
+    "fanduelId": 15636,
+    "flabsId": 12463
+  },
+  {
+    "name": "Hollis Thompson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203138,
+    "fanduelId": 15631,
+    "flabsId": 12420
+  },
+  {
+    "name": "Otto Porter",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203490,
+    "fanduelId": 15628,
+    "flabsId": 12469
+  },
+  {
+    "name": "Bradley Beal",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203078,
+    "fanduelId": 15595,
+    "flabsId": 12371
+  },
+  {
+    "name": "Austin Rivers",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203085,
+    "fanduelId": 15592,
+    "flabsId": 12378
+  },
+  {
+    "name": "Miles Plumlee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203101,
+    "fanduelId": 15591,
+    "flabsId": 12393
+  },
+  {
+    "name": "Mason Plumlee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203486,
+    "fanduelId": 15590,
+    "flabsId": 12465
+  },
+  {
+    "name": "Marshall Plumlee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627850,
+    "fanduelId": 15589,
+    "flabsId": 0
+  },
+  {
+    "name": "Ryan Kelly",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203527,
+    "fanduelId": 15587,
+    "flabsId": 0
+  },
+  {
+    "name": "Michael Gbinije",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1627771,
+    "fanduelId": 15585,
+    "flabsId": 0
+  },
+  {
+    "name": "Seth Curry",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203552,
+    "fanduelId": 15583,
+    "flabsId": 12505
+  },
+  {
+    "name": "Shabazz Napier",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203894,
+    "fanduelId": 15560,
+    "flabsId": 12520
+  },
+  {
+    "name": "Jeremy Lamb",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203087,
+    "fanduelId": 15559,
+    "flabsId": 12380
+  },
+  {
+    "name": "Andre Drummond",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203083,
+    "fanduelId": 15557,
+    "flabsId": 12376
+  },
+  {
+    "name": "Andre Roberson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203460,
+    "fanduelId": 15548,
+    "flabsId": 12446
+  },
+  {
+    "name": "KJ McDaniels",
+    "fanduelName": "K.J. McDaniels",
+    "flabsName": "",
+    "playerId": 203909,
+    "fanduelId": 15532,
+    "flabsId": 0
+  },
+  {
+    "name": "Sean Kilpatrick",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203930,
+    "fanduelId": 15520,
+    "flabsId": 12544
+  },
+  {
+    "name": "Allen Crabbe",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203459,
+    "fanduelId": 15501,
+    "flabsId": 12445
+  },
+  {
+    "name": "Quincy Acy",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203112,
+    "fanduelId": 15469,
+    "flabsId": 12403
+  },
+  {
+    "name": "Solomon Hill",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203524,
+    "fanduelId": 15417,
+    "flabsId": 12495
+  },
+  {
+    "name": "JaMychal Green",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 203210,
+    "fanduelId": 15405,
+    "flabsId": 12436
+  },
+  {
+    "name": "Isaiah Thomas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202738,
+    "fanduelId": 14559,
+    "flabsId": 12360
+  },
+  {
+    "name": "E'Twaun Moore",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202734,
+    "fanduelId": 14554,
+    "flabsId": 12359
+  },
+  {
+    "name": "DeAndre Liggins",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202732,
+    "fanduelId": 14552,
+    "flabsId": 12358
+  },
+  {
+    "name": "Lavoy Allen",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202730,
+    "fanduelId": 14549,
+    "flabsId": 12357
+  },
+  {
+    "name": "Davis Bertans",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202722,
+    "fanduelId": 14543,
+    "flabsId": 28071
+  },
+  {
+    "name": "Jon Leuer",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202720,
+    "fanduelId": 14539,
+    "flabsId": 12352
+  },
+  {
+    "name": "Chandler Parsons",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202718,
+    "fanduelId": 14537,
+    "flabsId": 0
+  },
+  {
+    "name": "Shelvin Mack",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202714,
+    "fanduelId": 14533,
+    "flabsId": 12349
+  },
+  {
+    "name": "Kyle Singler",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202713,
+    "fanduelId": 14532,
+    "flabsId": 0
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202711,
+    "fanduelId": 14530,
+    "flabsId": 12347
+  },
+  {
+    "name": "Cory Joseph",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202709,
+    "fanduelId": 14529,
+    "flabsId": 12345
+  },
+  {
+    "name": "Jimmy Butler",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202710,
+    "fanduelId": 14528,
+    "flabsId": 12346
+  },
+  {
+    "name": "Reggie Jackson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202704,
+    "fanduelId": 14523,
+    "flabsId": 0
+  },
+  {
+    "name": "Nikola Mirotic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202703,
+    "fanduelId": 14522,
+    "flabsId": 12340
+  },
+  {
+    "name": "Kenneth Faried",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202702,
+    "fanduelId": 14521,
+    "flabsId": 12339
+  },
+  {
+    "name": "Tobias Harris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202699,
+    "fanduelId": 14518,
+    "flabsId": 12337
+  },
+  {
+    "name": "Enes Kanter",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202683,
+    "fanduelId": 14516,
+    "flabsId": 12321
+  },
+  {
+    "name": "Iman Shumpert",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202697,
+    "fanduelId": 14515,
+    "flabsId": 12335
+  },
+  {
+    "name": "Nikola Vucevic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202696,
+    "fanduelId": 14514,
+    "flabsId": 12334
+  },
+  {
+    "name": "Kawhi Leonard",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202695,
+    "fanduelId": 14513,
+    "flabsId": 12333
+  },
+  {
+    "name": "Marcus Morris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202694,
+    "fanduelId": 14512,
+    "flabsId": 12332
+  },
+  {
+    "name": "Markieff Morris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202693,
+    "fanduelId": 14511,
+    "flabsId": 12331
+  },
+  {
+    "name": "Alec Burks",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202692,
+    "fanduelId": 14510,
+    "flabsId": 0
+  },
+  {
+    "name": "Klay Thompson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202691,
+    "fanduelId": 14509,
+    "flabsId": 12329
+  },
+  {
+    "name": "Kemba Walker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202689,
+    "fanduelId": 14507,
+    "flabsId": 12327
+  },
+  {
+    "name": "Brandon Knight",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202688,
+    "fanduelId": 14506,
+    "flabsId": 12326
+  },
+  {
+    "name": "Bismack Biyombo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202687,
+    "fanduelId": 14505,
+    "flabsId": 12325
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202685,
+    "fanduelId": 14503,
+    "flabsId": 12323
+  },
+  {
+    "name": "Tristan Thompson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202684,
+    "fanduelId": 14501,
+    "flabsId": 12322
+  },
+  {
+    "name": "Derrick Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202682,
+    "fanduelId": 14500,
+    "flabsId": 12320
+  },
+  {
+    "name": "Kyrie Irving",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202681,
+    "fanduelId": 14498,
+    "flabsId": 12319
+  },
+  {
+    "name": "Ricky Rubio",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201937,
+    "fanduelId": 14496,
+    "flabsId": 12230
+  },
+  {
+    "name": "Ish Smith",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202397,
+    "fanduelId": 12511,
+    "flabsId": 12313
+  },
+  {
+    "name": "Patrick Beverley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201976,
+    "fanduelId": 12474,
+    "flabsId": 12257
+  },
+  {
+    "name": "Jeremy Lin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202391,
+    "fanduelId": 12443,
+    "flabsId": 12312
+  },
+  {
+    "name": "Timofey Mozgov",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202389,
+    "fanduelId": 12424,
+    "flabsId": 12310
+  },
+  {
+    "name": "Omer Asik",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201600,
+    "fanduelId": 12423,
+    "flabsId": 12216
+  },
+  {
+    "name": "Tiago Splitter",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201168,
+    "fanduelId": 12421,
+    "flabsId": 0
+  },
+  {
+    "name": "Lance Stephenson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202362,
+    "fanduelId": 12369,
+    "flabsId": 0
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202357,
+    "fanduelId": 12368,
+    "flabsId": 12302
+  },
+  {
+    "name": "Gordon Hayward",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202330,
+    "fanduelId": 12366,
+    "flabsId": 12281
+  },
+  {
+    "name": "Ed Davis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202334,
+    "fanduelId": 12365,
+    "flabsId": 12285
+  },
+  {
+    "name": "Hassan Whiteside",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202355,
+    "fanduelId": 12363,
+    "flabsId": 12301
+  },
+  {
+    "name": "DeMarcus Cousins",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202326,
+    "fanduelId": 12362,
+    "flabsId": 12277
+  },
+  {
+    "name": "Evan Turner",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202323,
+    "fanduelId": 12359,
+    "flabsId": 12274
+  },
+  {
+    "name": "Eric Bledsoe",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202339,
+    "fanduelId": 12355,
+    "flabsId": 12290
+  },
+  {
+    "name": "Cole Aldrich",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202332,
+    "fanduelId": 12354,
+    "flabsId": 12283
+  },
+  {
+    "name": "Derrick Favors",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202324,
+    "fanduelId": 12351,
+    "flabsId": 12275
+  },
+  {
+    "name": "Trevor Booker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202344,
+    "fanduelId": 12350,
+    "flabsId": 12294
+  },
+  {
+    "name": "Luke Babbitt",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202337,
+    "fanduelId": 12349,
+    "flabsId": 12288
+  },
+  {
+    "name": "Wesley Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202325,
+    "fanduelId": 12348,
+    "flabsId": 12276
+  },
+  {
+    "name": "Greivis Vasquez",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202349,
+    "fanduelId": 12344,
+    "flabsId": 12298
+  },
+  {
+    "name": "Al-Farouq Aminu",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202329,
+    "fanduelId": 12342,
+    "flabsId": 12280
+  },
+  {
+    "name": "Paul George",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202331,
+    "fanduelId": 12341,
+    "flabsId": 12282
+  },
+  {
+    "name": "Patrick Patterson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202335,
+    "fanduelId": 12340,
+    "flabsId": 12286
+  },
+  {
+    "name": "Greg Monroe",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202328,
+    "fanduelId": 12337,
+    "flabsId": 12279
+  },
+  {
+    "name": "Kevin Seraphin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202338,
+    "fanduelId": 12335,
+    "flabsId": 12289
+  },
+  {
+    "name": "Avery Bradley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202340,
+    "fanduelId": 12334,
+    "flabsId": 12291
+  },
+  {
+    "name": "John Wall",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202322,
+    "fanduelId": 12332,
+    "flabsId": 12273
+  },
+  {
+    "name": "Alonzo Gee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202087,
+    "fanduelId": 11104,
+    "flabsId": 12269
+  },
+  {
+    "name": "Garrett Temple",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202066,
+    "fanduelId": 11074,
+    "flabsId": 12266
+  },
+  {
+    "name": "James Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201949,
+    "fanduelId": 9966,
+    "flabsId": 12239
+  },
+  {
+    "name": "Ty Lawson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201951,
+    "fanduelId": 9964,
+    "flabsId": 12241
+  },
+  {
+    "name": "Jonas Jerebko",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201973,
+    "fanduelId": 9962,
+    "flabsId": 12255
+  },
+  {
+    "name": "Omri Casspi",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201956,
+    "fanduelId": 9960,
+    "flabsId": 12245
+  },
+  {
+    "name": "Serge Ibaka",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201586,
+    "fanduelId": 9957,
+    "flabsId": 12207
+  },
+  {
+    "name": "Wayne Ellington",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201961,
+    "fanduelId": 9956,
+    "flabsId": 12249
+  },
+  {
+    "name": "Marcus Thornton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201977,
+    "fanduelId": 9955,
+    "flabsId": 12258
+  },
+  {
+    "name": "Ian Mahinmi",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101133,
+    "fanduelId": 9953,
+    "flabsId": 12025
+  },
+  {
+    "name": "Gerald Henderson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201945,
+    "fanduelId": 9951,
+    "flabsId": 12235
+  },
+  {
+    "name": "Dante Cunningham",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201967,
+    "fanduelId": 9940,
+    "flabsId": 0
+  },
+  {
+    "name": "Patty Mills",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201988,
+    "fanduelId": 9939,
+    "flabsId": 12264
+  },
+  {
+    "name": "Brandan Wright",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201148,
+    "fanduelId": 9935,
+    "flabsId": 0
+  },
+  {
+    "name": "Anthony Tolliver",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201229,
+    "fanduelId": 9920,
+    "flabsId": 0
+  },
+  {
+    "name": "Steve Novak",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200779,
+    "fanduelId": 9895,
+    "flabsId": 0
+  },
+  {
+    "name": "Kevin Love",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201567,
+    "fanduelId": 9874,
+    "flabsId": 12189
+  },
+  {
+    "name": "Robin Lopez",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201577,
+    "fanduelId": 9873,
+    "flabsId": 12198
+  },
+  {
+    "name": "Kyle Korver",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2594,
+    "fanduelId": 9870,
+    "flabsId": 12646
+  },
+  {
+    "name": "Amir Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101161,
+    "fanduelId": 9862,
+    "flabsId": 12035
+  },
+  {
+    "name": "Gerald Green",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101123,
+    "fanduelId": 9849,
+    "flabsId": 0
+  },
+  {
+    "name": "Jerryd Bayless",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201573,
+    "fanduelId": 9810,
+    "flabsId": 12194
+  },
+  {
+    "name": "Nicolas Batum",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201587,
+    "fanduelId": 9809,
+    "flabsId": 12208
+  },
+  {
+    "name": "Alexis Ajinca",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201582,
+    "fanduelId": 9804,
+    "flabsId": 0
+  },
+  {
+    "name": "Wesley Matthews",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 202083,
+    "fanduelId": 9799,
+    "flabsId": 12268
+  },
+  {
+    "name": "Luc Mbah a Moute",
+    "fanduelName": "Luc Richard Mbah a Moute",
+    "flabsName": "",
+    "playerId": 201601,
+    "fanduelId": 9796,
+    "flabsId": 12217
+  },
+  {
+    "name": "DeMarre Carroll",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201960,
+    "fanduelId": 9787,
+    "flabsId": 12248
+  },
+  {
+    "name": "John Lucas III",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101249,
+    "fanduelId": 9786,
+    "flabsId": 0
+  },
+  {
+    "name": "James Jones",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2592,
+    "fanduelId": 9785,
+    "flabsId": 0
+  },
+  {
+    "name": "Josh McRoberts",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201177,
+    "fanduelId": 9778,
+    "flabsId": 12177
+  },
+  {
+    "name": "Ryan Anderson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201583,
+    "fanduelId": 9772,
+    "flabsId": 12204
+  },
+  {
+    "name": "Danny Green",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201980,
+    "fanduelId": 9758,
+    "flabsId": 12261
+  },
+  {
+    "name": "Jordan Hill",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201941,
+    "fanduelId": 9752,
+    "flabsId": 0
+  },
+  {
+    "name": "JaVale McGee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201580,
+    "fanduelId": 9739,
+    "flabsId": 12201
+  },
+  {
+    "name": "Nick Young",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201156,
+    "fanduelId": 9737,
+    "flabsId": 12167
+  },
+  {
+    "name": "Mike Miller",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2034,
+    "fanduelId": 9734,
+    "flabsId": 0
+  },
+  {
+    "name": "Randy Foye",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200751,
+    "fanduelId": 9733,
+    "flabsId": 12136
+  },
+  {
+    "name": "Kosta Koufos",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201585,
+    "fanduelId": 9731,
+    "flabsId": 12206
+  },
+  {
+    "name": "Paul Millsap",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200794,
+    "fanduelId": 9729,
+    "flabsId": 12151
+  },
+  {
+    "name": "CJ Miles",
+    "fanduelName": "C.J. Miles",
+    "flabsName": "",
+    "playerId": 101139,
+    "fanduelId": 9725,
+    "flabsId": 12028
+  },
+  {
+    "name": "Deron Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101114,
+    "fanduelId": 9722,
+    "flabsId": 12017
+  },
+  {
+    "name": "Marco Belinelli",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201158,
+    "fanduelId": 9715,
+    "flabsId": 12168
+  },
+  {
+    "name": "DeMar DeRozan",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201942,
+    "fanduelId": 9714,
+    "flabsId": 12233
+  },
+  {
+    "name": "Jose Calderon",
+    "fanduelName": "Jos� Calder�n",
+    "flabsName": "",
+    "playerId": 101181,
+    "fanduelId": 9712,
+    "flabsId": 12038
+  },
+  {
+    "name": "Richard Jefferson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2210,
+    "fanduelId": 9706,
+    "flabsId": 12598
+  },
+  {
+    "name": "Manu Ginobili",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1938,
+    "fanduelId": 9704,
+    "flabsId": 12132
+  },
+  {
+    "name": "George Hill",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201588,
+    "fanduelId": 9703,
+    "flabsId": 12209
+  },
+  {
+    "name": "Tony Parker",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2225,
+    "fanduelId": 9702,
+    "flabsId": 12605
+  },
+  {
+    "name": "Spencer Hawes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201150,
+    "fanduelId": 9700,
+    "flabsId": 12164
+  },
+  {
+    "name": "Beno Udrih",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2757,
+    "fanduelId": 9693,
+    "flabsId": 12668
+  },
+  {
+    "name": "Tyreke Evans",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201936,
+    "fanduelId": 9692,
+    "flabsId": 0
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200746,
+    "fanduelId": 9688,
+    "flabsId": 12134
+  },
+  {
+    "name": "Channing Frye",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101112,
+    "fanduelId": 9678,
+    "flabsId": 0
+  },
+  {
+    "name": "Jared Dudley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201162,
+    "fanduelId": 9677,
+    "flabsId": 12170
+  },
+  {
+    "name": "Leandro Barbosa",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2571,
+    "fanduelId": 9674,
+    "flabsId": 12638
+  },
+  {
+    "name": "Goran Dragic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201609,
+    "fanduelId": 9673,
+    "flabsId": 12220
+  },
+  {
+    "name": "Marreese Speights",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201578,
+    "fanduelId": 9671,
+    "flabsId": 12199
+  },
+  {
+    "name": "Jason Smith",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201160,
+    "fanduelId": 9669,
+    "flabsId": 12169
+  },
+  {
+    "name": "Thaddeus Young",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201152,
+    "fanduelId": 9666,
+    "flabsId": 12165
+  },
+  {
+    "name": "Andre Iguodala",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2738,
+    "fanduelId": 9664,
+    "flabsId": 12656
+  },
+  {
+    "name": "Jrue Holiday",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201950,
+    "fanduelId": 9663,
+    "flabsId": 12240
+  },
+  {
+    "name": "Lou Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101150,
+    "fanduelId": 9662,
+    "flabsId": 12032
+  },
+  {
+    "name": "Marcin Gortat",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101162,
+    "fanduelId": 9661,
+    "flabsId": 12036
+  },
+  {
+    "name": "Dwight Howard",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2730,
+    "fanduelId": 9660,
+    "flabsId": 12649
+  },
+  {
+    "name": "Brandon Bass",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101138,
+    "fanduelId": 9659,
+    "flabsId": 12027
+  },
+  {
+    "name": "Matt Barnes",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2440,
+    "fanduelId": 9657,
+    "flabsId": 12619
+  },
+  {
+    "name": "JJ Redick",
+    "fanduelName": "J.J. Redick",
+    "flabsName": "",
+    "playerId": 200755,
+    "fanduelId": 9655,
+    "flabsId": 12138
+  },
+  {
+    "name": "Vince Carter",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1713,
+    "fanduelId": 9654,
+    "flabsId": 12119
+  },
+  {
+    "name": "Jameer Nelson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2749,
+    "fanduelId": 9652,
+    "flabsId": 12664
+  },
+  {
+    "name": "Nick Collison",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2555,
+    "fanduelId": 9649,
+    "flabsId": 0
+  },
+  {
+    "name": "Jeff Green",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201145,
+    "fanduelId": 9648,
+    "flabsId": 12160
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200757,
+    "fanduelId": 9647,
+    "flabsId": 12140
+  },
+  {
+    "name": "Kevin Durant",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201142,
+    "fanduelId": 9646,
+    "flabsId": 12157
+  },
+  {
+    "name": "James Harden",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201935,
+    "fanduelId": 9644,
+    "flabsId": 12228
+  },
+  {
+    "name": "Shaun Livingston",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2733,
+    "fanduelId": 9643,
+    "flabsId": 12652
+  },
+  {
+    "name": "Russell Westbrook",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201566,
+    "fanduelId": 9642,
+    "flabsId": 12188
+  },
+  {
+    "name": "David Lee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101135,
+    "fanduelId": 9638,
+    "flabsId": 12026
+  },
+  {
+    "name": "Danilo Gallinari",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201568,
+    "fanduelId": 9637,
+    "flabsId": 12190
+  },
+  {
+    "name": "Wilson Chandler",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201163,
+    "fanduelId": 9636,
+    "flabsId": 12171
+  },
+  {
+    "name": "David West",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2561,
+    "fanduelId": 9629,
+    "flabsId": 12632
+  },
+  {
+    "name": "Darren Collison",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201954,
+    "fanduelId": 9624,
+    "flabsId": 12244
+  },
+  {
+    "name": "Chris Paul",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101108,
+    "fanduelId": 9623,
+    "flabsId": 12012
+  },
+  {
+    "name": "Brook Lopez",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201572,
+    "fanduelId": 9621,
+    "flabsId": 12193
+  },
+  {
+    "name": "Courtney Lee",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201584,
+    "fanduelId": 9615,
+    "flabsId": 12205
+  },
+  {
+    "name": "Devin Harris",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2734,
+    "fanduelId": 9613,
+    "flabsId": 12653
+  },
+  {
+    "name": "Al Jefferson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2744,
+    "fanduelId": 9609,
+    "flabsId": 12660
+  },
+  {
+    "name": "Corey Brewer",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201147,
+    "fanduelId": 9606,
+    "flabsId": 12161
+  },
+  {
+    "name": "Ramon Sessions",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201196,
+    "fanduelId": 9605,
+    "flabsId": 12180
+  },
+  {
+    "name": "Andrew Bogut",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101106,
+    "fanduelId": 9601,
+    "flabsId": 12010
+  },
+  {
+    "name": "Ersan Ilyasova",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101141,
+    "fanduelId": 9598,
+    "flabsId": 12029
+  },
+  {
+    "name": "Brandon Jennings",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201943,
+    "fanduelId": 9593,
+    "flabsId": 12234
+  },
+  {
+    "name": "Udonis Haslem",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2617,
+    "fanduelId": 9589,
+    "flabsId": 0
+  },
+  {
+    "name": "Michael Beasley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201563,
+    "fanduelId": 9587,
+    "flabsId": 12185
+  },
+  {
+    "name": "Dwyane Wade",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2548,
+    "fanduelId": 9585,
+    "flabsId": 12627
+  },
+  {
+    "name": "Marc Gasol",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201188,
+    "fanduelId": 9581,
+    "flabsId": 12178
+  },
+  {
+    "name": "Darrell Arthur",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201589,
+    "fanduelId": 9580,
+    "flabsId": 12210
+  },
+  {
+    "name": "Zach Randolph",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2216,
+    "fanduelId": 9579,
+    "flabsId": 12600
+  },
+  {
+    "name": "Rudy Gay",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200752,
+    "fanduelId": 9577,
+    "flabsId": 12137
+  },
+  {
+    "name": "Mike Conley",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201144,
+    "fanduelId": 9575,
+    "flabsId": 12159
+  },
+  {
+    "name": "Pau Gasol",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2200,
+    "fanduelId": 9570,
+    "flabsId": 12594
+  },
+  {
+    "name": "Metta World Peace",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1897,
+    "fanduelId": 9568,
+    "flabsId": 12130
+  },
+  {
+    "name": "Sasha Vujacic",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2756,
+    "fanduelId": 9567,
+    "flabsId": 12667
+  },
+  {
+    "name": "Jordan Farmar",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200770,
+    "fanduelId": 9565,
+    "flabsId": 0
+  },
+  {
+    "name": "DeAndre Jordan",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201599,
+    "fanduelId": 9561,
+    "flabsId": 12215
+  },
+  {
+    "name": "Blake Griffin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201933,
+    "fanduelId": 9560,
+    "flabsId": 12226
+  },
+  {
+    "name": "Eric Gordon",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201569,
+    "fanduelId": 9556,
+    "flabsId": 12191
+  },
+  {
+    "name": "Roy Hibbert",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201579,
+    "fanduelId": 9553,
+    "flabsId": 12200
+  },
+  {
+    "name": "Brandon Rush",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201575,
+    "fanduelId": 9549,
+    "flabsId": 12196
+  },
+  {
+    "name": "Mike Dunleavy",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2399,
+    "fanduelId": 9547,
+    "flabsId": 12609
+  },
+  {
+    "name": "Luis Scola",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2449,
+    "fanduelId": 9542,
+    "flabsId": 12621
+  },
+  {
+    "name": "Trevor Ariza",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2772,
+    "fanduelId": 9538,
+    "flabsId": 12671
+  },
+  {
+    "name": "Kyle Lowry",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200768,
+    "fanduelId": 9535,
+    "flabsId": 12144
+  },
+  {
+    "name": "Aaron Brooks",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201166,
+    "fanduelId": 9534,
+    "flabsId": 12172
+  },
+  {
+    "name": "Anthony Morrow",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201627,
+    "fanduelId": 9529,
+    "flabsId": 12222
+  },
+  {
+    "name": "Monta Ellis",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101145,
+    "fanduelId": 9526,
+    "flabsId": 12031
+  },
+  {
+    "name": "CJ Watson",
+    "fanduelName": "C.J. Watson",
+    "flabsName": "",
+    "playerId": 201228,
+    "fanduelId": 9525,
+    "flabsId": 12183
+  },
+  {
+    "name": "Stephen Curry",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201939,
+    "fanduelId": 9524,
+    "flabsId": 12231
+  },
+  {
+    "name": "Rodney Stuckey",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201155,
+    "fanduelId": 9514,
+    "flabsId": 12166
+  },
+  {
+    "name": "Chris Andersen",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2365,
+    "fanduelId": 9513,
+    "flabsId": 12608
+  },
+  {
+    "name": "Nene",
+    "fanduelName": "Nene Hilario",
+    "flabsName": "",
+    "playerId": 2403,
+    "fanduelId": 9512,
+    "flabsId": 12611
+  },
+  {
+    "name": "Carmelo Anthony",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2546,
+    "fanduelId": 9508,
+    "flabsId": 12625
+  },
+  {
+    "name": "Arron Afflalo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201167,
+    "fanduelId": 9507,
+    "flabsId": 12173
+  },
+  {
+    "name": "JR Smith",
+    "fanduelName": "J.R. Smith",
+    "flabsName": "J.R. Smith",
+    "playerId": 2747,
+    "fanduelId": 9506,
+    "flabsId": 12662
+  },
+  {
+    "name": "Kris Humphries",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2743,
+    "fanduelId": 9501,
+    "flabsId": 0
+  },
+  {
+    "name": "Dirk Nowitzki",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1717,
+    "fanduelId": 9500,
+    "flabsId": 12120
+  },
+  {
+    "name": "Jason Terry",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1891,
+    "fanduelId": 9496,
+    "flabsId": 12129
+  },
+  {
+    "name": "Jose Juan Barea",
+    "fanduelName": "J.J. Barea",
+    "flabsName": "",
+    "playerId": 200826,
+    "fanduelId": 9495,
+    "flabsId": 12154
+  },
+  {
+    "name": "Anderson Varejao",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2760,
+    "fanduelId": 9490,
+    "flabsId": 0
+  },
+  {
+    "name": "LeBron James",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2544,
+    "fanduelId": 9488,
+    "flabsId": 12624
+  },
+  {
+    "name": "Joakim Noah",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201149,
+    "fanduelId": 9483,
+    "flabsId": 12163
+  },
+  {
+    "name": "Taj Gibson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201959,
+    "fanduelId": 9481,
+    "flabsId": 12247
+  },
+  {
+    "name": "Luol Deng",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2736,
+    "fanduelId": 9479,
+    "flabsId": 12655
+  },
+  {
+    "name": "Derrick Rose",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201565,
+    "fanduelId": 9475,
+    "flabsId": 12187
+  },
+  {
+    "name": "Tyson Chandler",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2199,
+    "fanduelId": 9473,
+    "flabsId": 12593
+  },
+  {
+    "name": "Boris Diaw",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2564,
+    "fanduelId": 9471,
+    "flabsId": 12634
+  },
+  {
+    "name": "D.J. Augustin",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201571,
+    "fanduelId": 9466,
+    "flabsId": 12192
+  },
+  {
+    "name": "Raymond Felton",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101109,
+    "fanduelId": 9465,
+    "flabsId": 12013
+  },
+  {
+    "name": "Paul Pierce",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 1718,
+    "fanduelId": 9459,
+    "flabsId": 12121
+  },
+  {
+    "name": "Tony Allen",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2754,
+    "fanduelId": 9458,
+    "flabsId": 12665
+  },
+  {
+    "name": "Rajon Rondo",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 200765,
+    "fanduelId": 9455,
+    "flabsId": 12143
+  },
+  {
+    "name": "Zaza Pachulia",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2585,
+    "fanduelId": 9454,
+    "flabsId": 12641
+  },
+  {
+    "name": "Al Horford",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201143,
+    "fanduelId": 9453,
+    "flabsId": 12158
+  },
+  {
+    "name": "Marvin Williams",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 101107,
+    "fanduelId": 9451,
+    "flabsId": 12011
+  },
+  {
+    "name": "Jamal Crawford",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2037,
+    "fanduelId": 9448,
+    "flabsId": 12514
+  },
+  {
+    "name": "Joe Johnson",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 2207,
+    "fanduelId": 9447,
+    "flabsId": 12597
+  },
+  {
+    "name": "Jeff Teague",
+    "fanduelName": "",
+    "flabsName": "",
+    "playerId": 201952,
+    "fanduelId": 9446,
+    "flabsId": 12242
+  }
+]

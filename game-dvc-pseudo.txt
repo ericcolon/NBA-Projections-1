@@ -1,0 +1,30 @@
+for each day
+
+get games
+
+for each game:
+	homeTeamPace = Possessions per 48 minutes for home team
+	awayTeamPace = Possessions per 48 minutes for away team
+	gamePace = (homeTeamPace + awayTeamPace) / 2
+	gameQuarters = number of quarters played in game (e.g. 5 if OT, 6 if double OT, 4 if normal)
+	gameMinutes = 48 if gameQuarters == 4 else gameQuarters = 48 + ((gameQuarters-4) * 5)
+	gamePossessions = gamePace * gameMinutes/48
+	
+	for each player in game:
+		playerFanduelPointsPerPossession = Precalculated. # of fanduel points scored per possession on season
+		playerMinutes = # of minutes player played in game
+		playerGamePossessions = (playerMinutes / gameMinutes) * gamePossessions
+		playerGameFanduelPoints = # of Fanduel points player accumulated in game
+		playerExpectedFanduelPoints = playerFanduelPointsPerPossession * playerGamePossessions
+		
+		
+		
+		
+		get player fantasy points
+		player expected fp = player fppp * possessions
+		
+		player fppp for game = fp/possessions
+		player expected fppp = player fppp * possessions
+		player projection = player possessions * fppp
+		player projection plusminus = 
+	

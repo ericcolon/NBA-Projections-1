@@ -1,0 +1,29 @@
+queue:
+- name: player-stat-collect
+  rate: 1/s
+  bucket_size: 40
+  max_concurrent_requests: 10
+  retry_parameters:
+    min_backoff_seconds: 45
+    task_retry_limit: 50
+- name: cluster-data-recreate
+  rate: 20/s
+  bucket_size: 40
+  max_concurrent_requests: 20
+  retry_parameters:
+    min_backoff_seconds: 45
+    task_retry_limit: 50
+- name: cluster-assign
+  rate: 20/s
+  bucket_size: 40
+  max_concurrent_requests: 20
+  retry_parameters:
+    min_backoff_seconds: 45
+    task_retry_limit: 50
+- name: game-scrape
+  rate: 1/s
+  bucket_size: 15
+  max_concurrent_requests: 1
+  retry_parameters:
+    min_backoff_seconds: 45
+    task_retry_limit: 50
